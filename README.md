@@ -1,2 +1,4 @@
 # hello-world
-Hello everybody.
+hello everyone.
+みなさんこんにちは。
+Hallo zusammen.
