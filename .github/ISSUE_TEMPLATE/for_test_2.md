@@ -4,9 +4,6 @@ about: テスト用のテンプレート２
 title: ''
 labels: ''
 assignees: ''
-DueDate: yyyymmdd
-estimate: xxmin
-spend: xxmin
 ---
 
 
