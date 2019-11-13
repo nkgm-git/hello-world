@@ -4,7 +4,9 @@ about: テスト用のテンプレート２
 title: ''
 labels: ''
 assignees: ''
-projects: nkgm-git/hello-world/projects/1
+DueDate: yyyymmdd
+estimate: xxmin
+spend: xxmin
 ---
 
 
